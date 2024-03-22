@@ -100,25 +100,25 @@ const profile = () => {
     const data1 = [
         {
             name: 'Isabella Grace Stone',
-            age: 25,
-            email: 'isabella.stone@example.com isabella.stone@example.com',
+            age: 'Won by 25000',
+            email: 'Vimlesh Kumar Tanti',
             image: 'https://randomuser.me/api/portraits/women/1.jpg',
         },
         {
             name: 'Oliver Benjamin Smith',
-            age: 30,
-            email: 'oliver.smith@example.com',
+            age: 'Lost by 25000 votes',
+            email: 'Suresh Prasad Sahani',
             image: 'https://randomuser.me/api/portraits/men/2.jpg',
         },
         {
             name: 'Sophia Charlotte Lee',
-            age: 35,
-            email: 'sophia.lee@example.com',
+            age: 'Leading by 25000',
+            email: 'ramLal Tripathy Chaoudhary',
             image: 'https://randomuser.me/api/portraits/women/3.jpg',
         },
         {
             name: 'Ethan Christopher Brown',
-            age: 40,
+            age: 'Legging by 2564',
             email: 'ethan.brown@example.com',
             image: 'https://randomuser.me/api/portraits/men/4.jpg',
         },
